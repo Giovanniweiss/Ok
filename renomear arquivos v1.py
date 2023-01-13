@@ -9,7 +9,7 @@ Data: 20/12/2022
 Ferramente para renomear desenhos automaticamente.
 
 Feito para obter informações de listas de materiais conforme o padrão
-da Equimatec em 2022.
+da ########## em 2022.
 
 Para funcionar, é necessário que a lista contenha uma coluna contendo
 os números dos desenhos na sexta posição e outra contendo os códigos
